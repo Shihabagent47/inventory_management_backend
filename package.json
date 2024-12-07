@@ -1,0 +1,19 @@
+{
+  "name": "inventory_management_backend",
+  "version": "1.0.0",
+  "description": "A fully custmizeable inventory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shihab",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5",
+    "nodemon": "^3.1.7",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
